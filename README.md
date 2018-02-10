@@ -1,8 +1,11 @@
 # Real-time Twitter Sentiment Visualization
 
+![image](https://github.com/Jitong-Liu/TweetMap-1/blob/master/images/markers.png)
+![image](https://github.com/Jitong-Liu/TweetMap-1/blob/master/images/heatmap.png)
+![image](https://github.com/Jitong-Liu/TweetMap-1/blob/master/images/sentiment.png)
 
----------
 ## Architecture
+![image](https://github.com/Jitong-Liu/TweetMap-1/blob/master/images/architecture.png)
 
 ### Streaming
 
