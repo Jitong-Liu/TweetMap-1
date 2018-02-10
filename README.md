@@ -5,7 +5,7 @@
 ![image](https://github.com/Jitong-Liu/TweetMap-1/blob/master/images/sentiment.png)
 
 ## Architecture
-![image](https://github.com/Jitong-Liu/TweetMap-1/blob/master/images/architecture.png)
+![image](https://github.com/Jitong-Liu/TweetMap-1/blob/master/images/architecture1.png)
 
 ### Streaming
 
